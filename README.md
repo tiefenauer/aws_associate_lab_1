@@ -86,3 +86,6 @@ remove_bucket failed: s3://qls-20540-46fe940b4b4ce45a-lab1deletemebucket-18odi0w
 Questions:
 
 - What is an ARN?
+
+To read up:
+- Amazon Policies
