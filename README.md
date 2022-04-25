@@ -89,3 +89,6 @@ Questions:
 
 To read up:
 - Amazon Policies
+- IAM
+- Accoun Permission
+- Security Profiles
